@@ -4,5 +4,5 @@
 
 ## Online Judges
 
-+ [AtCoder](atcoder.jp)
-+ [Sitio polaco. Muy buenos problemas, sin editorial](main.edu.pl)
++ [AtCoder](http://atcoder.jp)
++ [Sitio polaco. Muy buenos problemas, sin editorial](http://main.edu.pl)
