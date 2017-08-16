@@ -12,6 +12,17 @@
 + [Lena and Queries](http://codeforces.com/problemset/problem/678/F)
 
 
+### Descomposición por centroides
+
++ [Ciel the Commander](http://codeforces.com/problemset/problem/321/C)
++ [Recurrent on a Tree](https://www.hackerrank.com/contests/w34/challenges/recurrent-on-tree)
++ [Strings Balanceados](http://matcomgrader.com/problem/9147/strings-balanceados/)
++ [Carrera](http://matcomgrader.com/problem/4501/carrera/)
++ [QTREE](http://www.spoj.com/problems/QTREE5/)
++ [Can Bash Save the Day?](http://codeforces.com/contest/757/problem/G)
++ [Sherlock's bet to Moriarty](http://codeforces.com/contest/776/problem/F)
+
+
 ## Referencias Útiles
 
 + [Resumen de optimización de dinámica](http://codeforces.com/blog/entry/8219)
