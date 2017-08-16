@@ -18,10 +18,12 @@
 + [Recurrent on a Tree](https://www.hackerrank.com/contests/w34/challenges/recurrent-on-tree)
 + [Strings Balanceados](http://matcomgrader.com/problem/9147/strings-balanceados/)
 + [Carrera](http://matcomgrader.com/problem/4501/carrera/)
-+ [QTREE](http://www.spoj.com/problems/QTREE5/)
-+ [Can Bash Save the Day?](http://codeforces.com/contest/757/problem/G)
-+ [Sherlock's bet to Moriarty](http://codeforces.com/contest/776/problem/F)
-
++ [QTREE](http://www.spoj.com/problems/QTREE5/) Centroide como data structure
++ [Fito Begins in Fashion](http://coj.uci.cu/24h/problem.xhtml?pid=3744) Centroide como data
+  structure
++ [Can Bash Save the Day?](http://codeforces.com/contest/757/problem/G) Persistente
++ [Sherlock's bet to Moriarty](http://codeforces.com/contest/776/problem/F) Similar al primero pero
+  con geometría ;)
 
 ## Referencias Útiles
 
