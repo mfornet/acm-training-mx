@@ -32,10 +32,12 @@
 + [Path Statistics](https://www.hackerrank.com/contests/w34/challenges/path-statistics)
 + [Strange
   Tree](https://www.hackerrank.com/contests/openbracket-2017/challenges/special-path-on-a-strange-tree)
++ [Count on a tree II](http://www.spoj.com/problems/COT2/)
 
 ## Referencias Útiles
 
 + [Resumen de optimización de dinámica](http://codeforces.com/blog/entry/8219)
++ [Mo algorithm on tree](http://codeforces.com/blog/entry/43230)
 
 
 ## Online Judges
