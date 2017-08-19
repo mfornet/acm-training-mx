@@ -22,8 +22,16 @@
 + [Fito Begins in Fashion](http://coj.uci.cu/24h/problem.xhtml?pid=3744) Centroide como data
   structure
 + [Can Bash Save the Day?](http://codeforces.com/contest/757/problem/G) Persistente
-+ [Sherlock's bet to Moriarty](http://codeforces.com/contest/776/problem/F) Similar al primero pero
-  con geometría ;)
++ [Sherlock's bet to Moriarty](http://codeforces.com/contest/776/problem/F) Similar al primero pero con geometría ;)
++ [Santa Clauses and a Soccer Championship](http://codeforces.com/contest/752/problem/F)
+
+## Más de arboles
+
++ [Bear and Tree Jumps](http://codeforces.com/contest/790/problem/B)
++ [Peterson Polyglot](http://codeforces.com/problemset/problem/778/C)
++ [Path Statistics](https://www.hackerrank.com/contests/w34/challenges/path-statistics)
++ [Strange
+  Tree](https://www.hackerrank.com/contests/openbracket-2017/challenges/special-path-on-a-strange-tree)
 
 ## Referencias Útiles
 
