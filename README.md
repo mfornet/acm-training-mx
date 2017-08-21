@@ -25,7 +25,7 @@
 + [Sherlock's bet to Moriarty](http://codeforces.com/contest/776/problem/F) Similar al primero pero con geometría ;)
 + [Santa Clauses and a Soccer Championship](http://codeforces.com/contest/752/problem/F)
 
-## Más de arboles
+### Más de arboles
 
 + [Bear and Tree Jumps](http://codeforces.com/contest/790/problem/B)
 + [Peterson Polyglot](http://codeforces.com/problemset/problem/778/C)
@@ -34,11 +34,22 @@
   Tree](https://www.hackerrank.com/contests/openbracket-2017/challenges/special-path-on-a-strange-tree)
 + [Count on a tree II](http://www.spoj.com/problems/COT2/)
 
+### String
+
++ [Suffix Array](http://www.spoj.com/problems/SARRAY/)
++ [?Hashing? Contest](https://a2oj.com/standings?ID=16362)
++ [Passwords](http://codeforces.com/gym/101174/submit/E)
++ [New Distinct Substrings](http://www.spoj.com/problems/SUBST1/)
++ [LCS](http://www.spoj.com/problems/LCS/)
++ [Transaction Certificates](https://www.hackerrank.com/contests/gs-codesprint/challenges/transaction-certificates) Pro tip: Build anti-hash test.
+
 ## Referencias Útiles
 
 + [Resumen de optimización de dinámica](http://codeforces.com/blog/entry/8219)
 + [Mo algorithm on tree](http://codeforces.com/blog/entry/43230)
-
++ [e-maxx](http://e-maxx.ru/algo/)
++ [Anti-hash test](http://codeforces.com/blog/entry/4898)
++ [Hash tips](http://rng-58.blogspot.mx/2017/02/hashing-and-probability-of-collision.html)
 
 ## Online Judges
 
