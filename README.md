@@ -42,6 +42,14 @@
 + [New Distinct Substrings](http://www.spoj.com/problems/SUBST1/)
 + [LCS](http://www.spoj.com/problems/LCS/)
 + [Transaction Certificates](https://www.hackerrank.com/contests/gs-codesprint/challenges/transaction-certificates) Pro tip: Build anti-hash test.
++ [Palindrome Counting](http://coj.uci.cu/24h/problem.xhtml?pid=2937)
+
+### Probabilidades
+
++ [Connect the country](https://www.hackerrank.com/challenges/connect-the-country) Monte Carlo
++ [Expected Time to Love](http://www.spoj.com/problems/PRLOVE/)
++ [Probabilistic OR](http://www.spoj.com/problems/PROBOR/)
++ [Wormtongues Mine](http://www.spoj.com/problems/AMR12H/)
 
 ## Referencias Útiles
 
